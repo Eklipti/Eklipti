@@ -10,7 +10,7 @@
 
 ---
 
-[ **[ ✈️ Telegram ]** ](https://t.me/eklipti) • [ **[ 💀 Windows 11 Update History ]** ](https://support.microsoft.com/en-us/topic/windows-11-version-25h2-update-history-99c7f493-df2a-4832-bd2d-6706baa0dec0) • [ **[ 🎵 Piapro ]** ](https://sonicwire.com/product/virtualsinger/special/mikuv4x)
+[ **[ ✈️ Telegram ]** ](https://t.me/eklipti) • [ **[ 💀 Windows 11 Update History ]** ](https://support.microsoft.com/en-us/topic/windows-11-version-25h2-update-history-99c7f493-df2a-4832-bd2d-6706baa0dec0) • [ **[ 🎵 Piapro ]** ](https://youtu.be/7SnTDMjYe-Q?si=MQHCmYZdOLQKdSsd)
 
 ---
 
