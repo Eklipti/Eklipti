@@ -1,4 +1,4 @@
-# До свидания, с вами помер Андрей-Боголюбский.
+# До свидания
 
 > **Senior Fullstack Engineer-software-developer DevSecGitOps & Team Lead Genius Architecture.**
 
