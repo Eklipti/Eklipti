@@ -1,0 +1,21 @@
+name: Test Environment Secret
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test-secret:
+    runs-on: ubuntu-latest
+    environment: FOR_ACTIONS
+
+    steps:
+      - name: Check Secret
+        env:
+          TEST_SECRET: ${{ secrets.READ_REPO }}
+        run: |
+          if [ -n "$TEST_SECRET" ]; then
+            echo "The secret has been successfully received"
+          else
+            echo "Error: The secret is empty or not found"
+            exit 1
+          fi
